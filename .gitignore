@@ -7,8 +7,8 @@ yarn-error.log*
 lerna-debug.log*
 
 #TXT
-3.txt
-4.txt
+7.txt
+8.txt
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
